@@ -1,0 +1,10 @@
+.cor-base {
+    background-color: blueviolet;
+}
+
+.nav-menu {
+    color: white !important;
+}
+body{
+    overflow-x: hidden;
+}
